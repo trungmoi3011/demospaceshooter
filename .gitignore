@@ -1,0 +1,12 @@
+﻿.vs
+.vscode
+Assembly-CSharp.csproj
+*.csproj
+*.sln
+*.vsconfig
+*.collabignore
+UserSettings
+Temp
+Library
+Logs
+obj
