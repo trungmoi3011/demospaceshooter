@@ -1,5 +1,7 @@
 using UnityEngine;
 
+namespace game
+{ 
 public class Blinking : MonoBehaviour
 
 {
@@ -16,4 +18,5 @@ public class Blinking : MonoBehaviour
     {
         spriteRenderer.enabled = !spriteRenderer.enabled;
     }
+}
 }
